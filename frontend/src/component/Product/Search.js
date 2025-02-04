@@ -18,8 +18,6 @@ const Search = ({ history }) => {
     }
   };
 
-    //does not reload on submission of form
-    //trim removes spaces from keyword
 
   return (
     <>

@@ -28,7 +28,7 @@ exports.updateproduct=async(req,res,next)=>{
         prod1}
     )
 }
-//
+
 exports.getAllProducts=async (req,res)=>{
     // return next(new ErrorHandler("This is my temp error",500))
     const resultPerPage=8;
